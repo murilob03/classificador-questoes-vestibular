@@ -1,0 +1,5 @@
+modelo,acuracia,f1_macro,f1_weighted,recall_macro,precision_macro
+Logistic Regression,0.8924,0.8406,0.8925,0.8394,0.8427
+Naive Bayes,0.8922,0.8328,0.8899,0.8193,0.8556
+Random Forest,0.8168,0.752,0.813,0.7425,0.7742
+SVC,0.8961,0.847,0.8959,0.8464,0.8484
